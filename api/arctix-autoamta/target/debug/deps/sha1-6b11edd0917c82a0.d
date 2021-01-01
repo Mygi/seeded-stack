@@ -1,0 +1,11 @@
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/sha1-6b11edd0917c82a0.rmeta: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/consts.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress/soft.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress/x86.rs
+
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/libsha1-6b11edd0917c82a0.rlib: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/consts.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress/soft.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress/x86.rs
+
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/sha1-6b11edd0917c82a0.d: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/consts.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress/soft.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress/x86.rs
+
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/lib.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/consts.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress/soft.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha-1-0.9.1/src/compress/x86.rs:

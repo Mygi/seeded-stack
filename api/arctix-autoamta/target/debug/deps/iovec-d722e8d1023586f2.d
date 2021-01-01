@@ -1,0 +1,10 @@
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/iovec-d722e8d1023586f2.rmeta: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/sys/mod.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/sys/unix.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/unix.rs
+
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/libiovec-d722e8d1023586f2.rlib: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/sys/mod.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/sys/unix.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/unix.rs
+
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/iovec-d722e8d1023586f2.d: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/sys/mod.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/sys/unix.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/unix.rs
+
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/lib.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/sys/mod.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/sys/unix.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/iovec-0.1.4/src/unix.rs:

@@ -1,0 +1,1 @@
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/arctix-autoamta: /Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/src/main.rs /Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/static/welcome.html

@@ -1,0 +1,11 @@
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/brotli2-8b7faf5829b29273.rmeta: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/raw.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/bufread.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/read.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/write.rs
+
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/libbrotli2-8b7faf5829b29273.rlib: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/raw.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/bufread.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/read.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/write.rs
+
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/brotli2-8b7faf5829b29273.d: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/raw.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/bufread.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/read.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/write.rs
+
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/lib.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/raw.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/bufread.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/read.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/write.rs:

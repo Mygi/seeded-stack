@@ -1,0 +1,11 @@
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/libasync_trait-757e442f7d7d7561.dylib: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/args.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/expand.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/lifetime.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/parse.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/receiver.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/respan.rs
+
+/Users/andrewglenn/workspace/mygi/seeded-stack/api/arctix-autoamta/target/debug/deps/async_trait-757e442f7d7d7561.d: /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/lib.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/args.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/expand.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/lifetime.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/parse.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/receiver.rs /Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/respan.rs
+
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/lib.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/args.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/expand.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/lifetime.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/parse.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/receiver.rs:
+/Users/andrewglenn/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.41/src/respan.rs:
